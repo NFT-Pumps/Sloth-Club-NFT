@@ -39,7 +39,7 @@ if (true == true)
             let ethBalance = ethers.utils.formatEther(await ethers.provider.getBalance(owner.address));
             console.log("Start Balance: " + ethBalance);
 
-            const currentContract = await ethers.getContractFactory("GenericNFTPumpContract");
+            const currentContract = await ethers.getContractFactory("SlothClubNFT");
             currentToken = await currentContract.deploy(
                 'Test Contract',
                 'Test',
@@ -154,10 +154,10 @@ if (true == true)
             it("Mints a presale token from Dapp", async function () {
 
                 const PurchaseArray = [
-                    { amount: 1, value: "0.055" },
-                    { amount: 1, value: "0.055" },
-                    { amount: 1, value: "0.055" },
-                    { amount: 1, value: "0.055" }
+                    { amount: 1, value: "0.06" },
+                    { amount: 1, value: "0.06" },
+                    { amount: 1, value: "0.06" },
+                    { amount: 1, value: "0.06" }
                 ];
 
                 //Enable Mint Whitelist
