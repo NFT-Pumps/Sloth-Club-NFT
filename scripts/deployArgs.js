@@ -4,8 +4,8 @@ module.exports = [
  
     '0x9C3f261e2cc4C88DfaC56A5B46cdbf767eE2f231',
     '0xc01aC67ba14F13Af4fCD5b4ba3784F39a703cda0',
-    'https://public-pre-ipfs.s3.amazonaws.com/Sloth_Club_NFT/assets/SlothReveal.json',
     'https://public-pre-ipfs.s3.amazonaws.com/Sloth_Club_NFT/json/',
+    'https://public-pre-ipfs.s3.amazonaws.com/Sloth_Club_NFT/assets/SlothReveal.json',
 
     [
         ethers.utils.getAddress('0xB784269721dA07b7BABEbC9db30c0d982B1f0964'),
