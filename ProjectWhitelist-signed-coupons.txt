@@ -343,6 +343,22 @@
       v: 27
     }
   },
+  '0xE73bae5ff0944458D1032346663b24a37475c4F3': {
+    q: 1,
+    whitelistClaimPass: {
+      r: '0xac8d0106ff63edb169b9f864ff5b21f58a652694806b561283752a5fc4fad028',
+      s: '0x621f67d348d3e15fd50448a3bb02c33bcddbd28ac16a90ed6562729250b31e55',
+      v: 28
+    }
+  },
+  '0x87fAAB05Be6fFD3143E2150b2Da656fCC0EC40Dd': {
+    q: 1,
+    whitelistClaimPass: {
+      r: '0xed663fdffd3a94598ab5a10208787d73d784671d067c1e5d26352256cef48b16',
+      s: '0x3954fc9bc32161511abc51970efb78604b9a21e15a4a0ce0b07e951840b6efd6',
+      v: 27
+    }
+  },
   '0xa7531F5A9D56089A79EBCb295bAba41bED80ca22': {
     q: 1,
     whitelistClaimPass: {
