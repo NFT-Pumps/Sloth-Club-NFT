@@ -64,10 +64,10 @@
     }
   },
   '0x615B9949865eff0397EDE1Cab77eCA60Fe8b26a2': {
-    q: 3,
+    q: 2,
     whitelistClaimPass: {
-      r: '0xc498fbfb0c0efe7724a0e743107cf7fa1ae25bb6d7de5ec8fd9de971d238d834',
-      s: '0x7cc9fd152c17b3d41959fe01939d317251b533003bb5b4641806707e25ff7091',
+      r: '0x4efa54772a4286704f0dff41b1fa8143f411d317719471d6761147a99008bbbe',
+      s: '0x74b14153a1d85c79dd32cfda08b348ec0012a3e0387afa2a8ad9f0daf6f65c7e',
       v: 28
     }
   },
