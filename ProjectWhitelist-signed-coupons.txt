@@ -367,6 +367,14 @@
       v: 28
     }
   },
+  '0x203A550caB392e30B09048bBAb2F7C133f553e15': {
+    q: 1,
+    whitelistClaimPass: {
+      r: '0x5614501afe5c61843593471c0e8ab3b1c8fc122b31ed9bdcf25d26f302a05be9',
+      s: '0x5a08a50fe473a1f25942285f62d5115b2900e522ac48e7a88458d13794c1cca2',
+      v: 28
+    }
+  },
   '0xa7531F5A9D56089A79EBCb295bAba41bED80ca22': {
     q: 1,
     whitelistClaimPass: {
